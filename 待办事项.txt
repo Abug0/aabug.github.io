@@ -1,0 +1,7 @@
+php
+TODO:修改脚本，捕捉到异常时将异常写入exceptions.txt文件中
+
+TODO:UserSearcher修改为UserRetrieveImpl
+TODO:定义IUserRetrieve接口
+
+TODO:测试register.php页面和logout.php页面

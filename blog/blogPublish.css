@@ -1,0 +1,24 @@
+#article{
+	position:relative;
+	left:5%;
+	top:25px;
+	height:80%;
+}
+
+#btn-publish{
+	background-color:#4567aa;
+	position:absolute;
+	left:100px;
+	width:100px;
+}
+
+#content{
+	position:relative;
+	left:70px;
+	width:70%;
+	height:80%;
+}
+
+#subtit{
+	color:#777;
+}

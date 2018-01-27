@@ -1,0 +1,194 @@
+a{
+	text-decoration:none;
+}
+
+body{
+	background-color:#eee;
+}
+
+#main-left{
+	float:left;
+	width:810px;
+}
+
+#blog_details{
+	border:1px solid #ddd;
+	
+	background-color:#fff;
+}
+
+#comments{
+	position:relative;
+	top:40px;
+	background-color:#fff;
+}
+
+#content{
+	min-height:200px;
+}
+
+.comment{
+	border-bottom:1px solid #ccc;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+	border:1px solid #ddd;
+	height:120px;
+	position:relative;
+	top:20px;
+	
+}
+
+.comment_content{
+	margin-top:10px;
+}
+
+.comment_tit{
+	border-bottom:1px solid #877;
+	float:right;
+	height:25px;
+	padding-top:3px;
+	width:715px;
+}
+
+.comment_tit_floor{
+	color:#898;
+	font-size:14px;
+	margin-left:5px;
+}
+
+.comment_tit_option{
+	color:#999;
+	font-size:15px;
+	position:relative;
+	left:70px;
+	margin-right:16px;
+}
+
+.comment_tit_option a{
+	color:#563412;
+	font-size:14px;
+	text-decoration:none;
+}
+
+.comment_tit_user{
+	color:#687676;
+	margin-left:20px;
+	position:relative;
+	top:5px;
+}
+
+.user-comment{
+	position:relative;
+	left:50px;
+	top:10px;
+}
+
+.user-head-image{
+	position:relative;
+	top:-7px;
+	width:30px;
+	height:30px;
+	border-radius:20px;
+	float:left;
+}
+
+#content{
+	height:100px;
+	text-indent:2em;
+}
+
+#main{
+	background-color:#eee;
+	height:100%;
+	width:1150px;
+}
+
+#ta-comment-content{
+	display:inline-block;
+	width: 600px;
+	border: 1px solid #d0d0d0;
+	height: 30px;
+	margin-bottom: 10px;
+	border-radius: 4px;
+	font-size:16px;
+	vertical-align:bottom;
+	resize:none;
+	transition:height 3s;
+	float:right;
+	position:relative;
+	left:-150px;
+}
+
+#title{
+	border-bottom:1px solid #ddd;
+	height:80px;
+}
+
+#title h3{
+	position:relative;
+	left:20px;
+}
+
+#title span{
+	color:#999;
+	font-size:15px;
+	margin-right:16px;
+	position:relative;
+	left:70px;
+}
+#user-head{
+	display:inline-block;
+}
+
+#user_info{
+	background-color:#fff;
+	border:1px solid #ddd;
+	float:right;
+	//height:400px;
+	width:300px;
+}
+
+#user_info img{
+	height:200px;
+	margin-top:20px;
+	margin-left:40px;
+	text-align:center;
+	width:200px;
+}
+
+#user_info_name{
+	font-size:20px;
+	text-align:center;
+}
+
+
+.user_head_image{
+	border-right:1px solid #aaa;
+	float:left;
+	height:120px;
+	width:90px;
+}
+
+.user_head_image img{
+	height:60px;
+	margin-top:20px;
+	margin-left:10px;
+	width:60px;
+}
+
+#user_other_articles_tit{
+	background-color:#ccc;
+	display:inline-block;
+	margin-top:5px;
+	padding-left:20px;
+	width:280px;
+}
+
+#user_other_articles ul{
+	list-style:none;
+}
+
+#user_other_articles ul li a{
+	color:#999;
+}

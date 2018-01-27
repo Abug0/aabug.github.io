@@ -1,0 +1,80 @@
+
+#blog_catelog{
+	width:270px;
+}
+
+#blog_catelog ul{
+	list-style:none;
+}
+
+#blog_catelog ul li a{
+	color:#999;
+	text-decoration:none;
+}
+
+#blog_catelog ul li a:hover{
+	color:blue;
+}
+
+#blogs{
+	border:1px solid #ccc;
+	height:100%;
+	position:absolute;
+	left:290px;
+	width:850px;
+}
+
+#header{
+	background-color:#eeE4B5;
+	display:inline-block;	
+	height:80px;
+	padding-left:30px;
+	width:1104px;
+}
+
+#header h2{
+	
+}
+
+#head_image{
+	border-bottom:1px dashed #ddd;
+	height:200px;
+	text-align:center;
+}
+
+#head_image img{
+	height:150px;
+	margin-top:20px;
+	width:150px;
+}
+
+#head_image span{
+	display:block;
+}
+
+#nav{
+	display:inline-block;
+	margin-left:350px;
+	margin-top:-85px;
+}
+
+#nav ul{
+	list-style:none;
+}
+
+#nav ul li{
+	display:inline-block;
+	margin-left:10px;
+}
+
+#nav ul li a{
+	font-size:20px;
+	text-decoration:none;
+}
+
+#user_info{
+	border:1px solid #ccc;
+	float:left;
+	height:100%;
+	width:270px;
+}
